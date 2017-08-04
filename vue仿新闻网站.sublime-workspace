@@ -1,0 +1,548 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"in",
+				"interpolate"
+			],
+			[
+				"email",
+				"emailBody"
+			],
+			[
+				"my",
+				"myController"
+			],
+			[
+				"this",
+				"this"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"zh",
+				"zh-CN"
+			],
+			[
+				"file",
+				"file1"
+			],
+			[
+				"java",
+				"javascript"
+			],
+			[
+				"Ja",
+				"JavaScript"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"optin",
+				"options"
+			],
+			[
+				"deta",
+				"detail"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"f",
+				"formattedValue"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"new",
+				"newButton"
+			],
+			[
+				"de",
+				"detai2"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"nex",
+				"next"
+			],
+			[
+				"next",
+				"nextimage"
+			],
+			[
+				"btn",
+				"btnsuiji"
+			],
+			[
+				"image",
+				"imageList"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"style",
+				"style\tTag"
+			],
+			[
+				"ima",
+				"imageList"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"col",
+				"col-xs-3"
+			],
+			[
+				"off",
+				"col-md-offset-5"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 60.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"reindent",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"in",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"i",
+				"Package Control: Install Package→安装插件"
+			]
+		],
+		"width": 427.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Administrator/Desktop/园艺/index.html",
+		"/C/Users/Administrator/Desktop/园艺/wenzhang.html",
+		"/E/江西农业大学/myitem/酒店/web/css/index.css",
+		"/E/江西农业大学/myitem/酒店/web/css/newsp.css",
+		"/E/江西农业大学/myitem/酒店/web/css/service.css",
+		"/C/Users/Administrator/Desktop/杭州萧山海锡货运代理网站/index.html",
+		"/E/江西农业大学/myitem/酒店/web/js/index.js",
+		"/C/Users/Administrator/Desktop/园艺/top.html",
+		"/C/Users/Administrator/Desktop/园艺/about.html",
+		"/C/Users/Administrator/Desktop/园艺/footer.html",
+		"/C/Users/Administrator/Desktop/园艺/left.html",
+		"/C/Users/Administrator/Desktop/园艺/list.html",
+		"/C/Users/Administrator/Desktop/园艺/pic.html",
+		"/C/Users/Administrator/Desktop/园艺/css/style.css",
+		"/C/Users/Administrator/Desktop/园艺/article.html",
+		"/C/Users/Administrator/Desktop/园艺/js/responsive-nav.js",
+		"/C/Users/Administrator/Desktop/园艺/js/jquery.SuperSlide.2.1.1.js",
+		"/C/Users/Administrator/Desktop/园艺/js/jquery-1.10.2.min.js",
+		"/C/Users/Administrator/Desktop/园艺/js/bootstrap.min.js",
+		"/C/Users/Administrator/Desktop/园艺/css/bootstrap.css",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/components/seller/seller.styl",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/components/seller/seller.vue",
+		"/C/Users/Administrator/Desktop/node-elm-master/routes/shopping.js",
+		"/C/Users/Administrator/Desktop/node-elm-master/controller/v1/cities.js",
+		"/C/Users/Administrator/Desktop/node-elm-master/routes/index.js",
+		"/C/Users/Administrator/Desktop/node-elm-master/mongodb/db.js",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/components/ratingselect/ratingselect.vue",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/components/header/header.vue",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/components/ratings/ratings.styl",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/components/ratings/ratings.vue",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/components/ratingselect/ratingselect.styl",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/App.vue",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/components/split/split.vue",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/data.json",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/components/food/food.vue",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/main.js",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/components/shopcart/shopcart.vue",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/components/goods/goods.vue",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/components/cartControl/cartControl.styl",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/components/shopcart/shopCart.styl",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/components/food/food.styl",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/resource/外卖03_商品页_购物车详情.jpg",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/resource/外卖01_商品页.jpg",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/resource/外卖02_商品页_公告及优惠信息.jpg",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/common/js/date.js",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/common/js/store.js",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/common/js/util.js",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/components/cartControl/cartControl.vue",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/package.json",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/components/goods/goods.styl",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/common/json/data.json",
+		"/E/nodeitem/blog/routers/admin.js",
+		"/E/nodeitem/blog/schemas/user.js",
+		"/E/nodeitem/blog/models/user.js",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/.gitignore",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/components/star/star.vue",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/config/dev.env.js",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/config/index.js",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/config/prod.env.js",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/.babelrc",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/.editorconfig",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/.eslintignore",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/.eslintrc.js",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/build/webpack.base.conf.js",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/build/utils.js",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/build/dev-server.js",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/build/dev-client.js",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/build/check-versions.js",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/build/build.js",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/common/stylus/font.styl",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/components/header/header.styl",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/components/star/star.styl",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/common/stylus/index.styl",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/index.html",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/src/common/stylus/mixin.styl",
+		"/C/Users/Administrator/Desktop/nodeitem/eleme-master/static/css/reset.css",
+		"/C/Users/Administrator/AppData/Local/Temp/360zip$Temp/360$1/style.css",
+		"/C/Users/Administrator/Desktop/music-player-vue/client/package.json",
+		"/C/Users/Administrator/Desktop/music-player-vue/client/index.html",
+		"/C/Users/Administrator/Desktop/music-player-vue/client/app.js",
+		"/C/Users/Administrator/Desktop/music-player-vue/client/main.js",
+		"/C/Users/Administrator/Desktop/music-player-vue/client/libs/vue/vue.common.js",
+		"/C/Users/Administrator/Desktop/music-player-vue/client/assets/css/app.css",
+		"/C/Users/Administrator/Desktop/music-player-vue/client/libs/vue/README.md",
+		"/C/Users/Administrator/Desktop/music-player-vue/server/views/music/add.xtpl",
+		"/C/Users/Administrator/sell/.babelrc",
+		"/C/Users/Administrator/sell/.editorconfig",
+		"/C/Users/Administrator/sell/.eslintignore",
+		"/C/Users/Administrator/sell/.eslintrc.js",
+		"/C/Users/Administrator/sell/README.md",
+		"/C/Users/Administrator/Desktop/index.jsp",
+		"/C/Users/Administrator/Desktop/angular-1.5.0/angular.min.js",
+		"/C/Users/Administrator/Desktop/angular/20170519.html",
+		"/C/Users/Administrator/Desktop/西途20170305/student_uploadExercise.html",
+		"/C/Users/Administrator/Desktop/西途20170301/js/manage-checker-jqgrid.js",
+		"/C/Users/Administrator/Desktop/ace admin/ace-master/jqgrid.html",
+		"/C/Users/Administrator/Desktop/西途20170305/assets/css/ace.min.css",
+		"/C/Users/Administrator/Desktop/西途20170305/js/student_uploadExercise.js",
+		"/C/Users/Administrator/Desktop/西途20170301/user-password.html",
+		"/C/Users/Administrator/Desktop/西途20170301/blank.html",
+		"/C/Users/Administrator/Desktop/identifyingCode.js",
+		"/C/Users/Administrator/Desktop/西途20170305/teacher_dataUpload.html",
+		"/C/Users/Administrator/Desktop/teacher_dataUpload.jsp",
+		"/C/Users/Administrator/Desktop/webGL/1.js",
+		"/C/Users/Administrator/Desktop/webGL/1.html",
+		"/C/Users/Administrator/Desktop/西途20170301/assets/css/ace.min.css",
+		"/C/Users/Administrator/Desktop/西途20170301/manage-checker.html",
+		"/C/Users/Administrator/Desktop/西途20170305/test.html",
+		"/C/Users/Administrator/Desktop/vue/test.html",
+		"/C/Users/Administrator/Desktop/ace admin/ace-master/assets/js/bootstrap-datepicker.min.js",
+		"/C/Users/Administrator/Desktop/西途20170305/assets/js/ajaxfileupload.js",
+		"/C/Users/Administrator/Desktop/西途20170305/uoload.html",
+		"/E/weixin/tcdemo01/app.js",
+		"/C/Users/Administrator/Desktop/test.html",
+		"/C/Users/Administrator/Desktop/西途20170305/jquery.jDownload.min.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/jquery.jDownload.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/jDownload.php",
+		"/C/Users/Administrator/Desktop/西途20170305/downloadr.js",
+		"/C/Users/Administrator/Desktop/西途20170305/jqbrowser.js",
+		"/C/Users/Administrator/Desktop/西途20170305/data.html",
+		"/C/Users/Administrator/Desktop/ace admin/ace-master/assets/js/bootstrap-datepicker-cn.js",
+		"/C/Users/Administrator/Desktop/ace admin/ace-master/assets/js/bootstrap-datepicker-.js",
+		"/C/Users/Administrator/Desktop/ace admin/ace-master/assets/js/grid.locale-en.js",
+		"/C/Users/Administrator/Desktop/bootstrap-datepicker-cn.js",
+		"/C/Users/Administrator/Desktop/ace admin/ace-master/assets/js/bootstrap-datetimepicker.min.js",
+		"/C/Users/Administrator/Desktop/西途20170305/assets/js/bootstrap-datepicker.min.js",
+		"/C/Users/Administrator/Desktop/西途20170305/js/ajaxfileupload.js",
+		"/C/Users/Administrator/Desktop/西途20170305/teacher_checkExercise.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+			"C:\\Users\\Administrator\\Desktop\\nodeitem\\eleme-master"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\t\t<div class=\"top\">\n\t\t\t<div class=\"top-logo\">\n\t            <div class=\"logo_box\">\n\t                <h6 class=\"hidden-xs\">欢迎来到杭州大江东产业集聚区乔乔园艺场网站！</h6>\n\t                <div class=\"login\">\n\t                    <div class=\"collection  hidden-xs\"><span>关于我们</span><b>丨</b><span>联系我们</span></div>\n\t               </div>\n\t           </div>\n\t       </div>\n\t       <div class=\"logo_tetx hidden-xs\">\n\t\t\t\t<div class=\"logo\"> \n\t\t\t\t\t<a href=\"/\"><img src=\"images/logo.png\"></a>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"hotline\">\n\t\t\t\t\t<span>联系电话：</span>\n\t\t\t\t\t<i>182-6889-2703</i>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t<header class=\"header-frontend\">\n\t        <div class=\"navbar navbar-default navbar-static-top\">\n\t            <div class=\"container\">\n\t                <div class=\"navbar-header\">\n\t                    <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\".navbar-collapse\">\n\t                        <span class=\"icon-bar\"></span>\n\t                        <span class=\"icon-bar\"></span>\n\t                        <span class=\"icon-bar\"></span>\n\t                    </button>\n\t                    <a class=\"navbar-brand hidden-lg\" href=\"index.html\"><img src=\"images/logo.png\"/></a>\n\t                </div>\n\t                <div class=\"navbar-collapse collapse\" style=\"height: 1px;\">\n\t                    <ul class=\"nav navbar-nav\">\n\t                        <li class=\"active\"><a href=\"index.html\">网站首页</a></li>\n\t                        <li><a href=\"\">关于我们</a></li>\n\t                        <li><a href=\"\">产品展示</a> </li>\n\t                        <li><a href=\"\">新闻中心</a></li>\n\t                        <li><a href=\"\">施工案例</a></li>\n\t                        <li><a href=\"\">服务保障</a></li>\n\t                        <li><a href=\"\">在线留言</a></li>\n\t                        <li><a href=\"\">联系我们</a></li>\n\t                    </ul>\n\t                </div>\n\t            </div>\n\t        </div>\n       </header>\n       <div id=\"carousel-example-generic\" class=\"carousel slide\" data-ride=\"carousel\">\n\t\t\t  <ol class=\"carousel-indicators\">\n\t\t\t    <li data-target=\"#carousel-example-generic\" data-slide-to=\"0\" class=\"active\"></li>\n\t\t\t    <li data-target=\"#carousel-example-generic\" data-slide-to=\"1\"></li>\n\t\t\t  </ol>\n\t\t\t  <div class=\"carousel-inner\" role=\"listbox\">\n\t\t\t    <div class=\"item active\">\n\t\t\t      <img src=\"images/banner.jpg\" alt=\"\">\n\t\t\t    </div>\n\t\t\t    <div class=\"item\">\n\t\t\t      <img src=\"images/banner1.jpg\" alt=\"\">\n\t\t\t    </div>\n\t\t\t  </div>\n\t\t\t  <a class=\"left carousel-control\" href=\"#carousel-example-generic\" role=\"button\" data-slide=\"prev\">\n\t\t\t    <span class=\"glyphicon glyphicon-chevron-left\"></span>\n\t\t\t    <span class=\"sr-only\">Previous</span>\n\t\t\t  </a>\n\t\t\t  <a class=\"right carousel-control\" href=\"#carousel-example-generic\" role=\"button\" data-slide=\"next\">\n\t\t\t    <span class=\"glyphicon glyphicon-chevron-right\"></span>\n\t\t\t    <span class=\"sr-only\">Next</span>\n\t\t\t  </a>\n\t\t</div>",
+			"header",
+			"nav",
+			"top",
+			"formatDate",
+			"increment",
+			"positives",
+			"desc",
+			"increment",
+			"this.listHight.push(height)",
+			"_calculateHeight ",
+			"food-list-hook",
+			"better-scroll",
+			"detail2",
+			"detail",
+			"basePath",
+			"${basePath }",
+			".ui-jqgrid .ui-jqgrid-pager",
+			"@media only screen and (max-width: 767px)",
+			"@media only screen",
+			"auto",
+			"autowidth",
+			"setIframeHeight",
+			"iframe",
+			"body",
+			".php",
+			"bootstrap",
+			"Cancel",
+			"jDownload",
+			"datepicker",
+			"datetimepicker",
+			"datepicker",
+			"jquery-ui.min.js",
+			"minDate",
+			"style_edit_form",
+			"validate",
+			"validate_file",
+			"pickDate",
+			"autoclose",
+			"language",
+			"upload",
+			"options",
+			"submit",
+			"jquery",
+			"cellValue",
+			"upload",
+			"afterSubmit",
+			"upload",
+			"zh",
+			"!important",
+			"datepicker",
+			"pickDate",
+			"datepicker",
+			"style_edit_form",
+			"sdate",
+			"pickDate",
+			"beforeDeleteCallback",
+			"beforeShowForm",
+			"datepicker",
+			"pickDate",
+			"datepicker",
+			"regional",
+			"closeAfterEdit",
+			"requirepass",
+			"checkPwd1",
+			"__changeUserName",
+			"_str",
+			"__changeUserName",
+			"showTooltips",
+			"script",
+			"iframe",
+			"function",
+			"funciton",
+			"图片",
+			"beforeEditCallback",
+			"style_edit_form\t",
+			"style_edit_form",
+			"图片",
+			"style",
+			"btn-link",
+			"jqgrow",
+			"btn btn-white"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"btn btn-link"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "vue仿新闻网站.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
